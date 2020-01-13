@@ -1,0 +1,1 @@
+python object_detector.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt
